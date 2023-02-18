@@ -1,0 +1,9 @@
+Spigot 1.19.3 https://download.getbukkit.org/spigot/spigot-1.19.3.jar
+Spigot 1.19.2 https://download.getbukkit.org/spigot/spigot-1.19.2.jar
+Spigot 1.19.1 https://download.getbukkit.org/spigot/spigot-1.19.1.jar
+Spigot 1.19 https://download.getbukkit.org/spigot/spigot-1.19.jar
+Spigot 1.18.2 https://download.getbukkit.org/spigot/spigot-1.18.2.jar
+Spigot 1.18.1 https://download.getbukkit.org/spigot/spigot-1.18.1.jar
+Spigot 1.18 https://download.getbukkit.org/spigot/spigot-1.18.jar
+Spigot 1.17.1 https://download.getbukkit.org/spigot/spigot-1.17.1.jar
+Spigot 1.17 https://download.getbukkit.org/spigot/spigot-1.17.jar
