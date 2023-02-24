@@ -17,7 +17,7 @@ The script can be used to install and control servers.
 
 ## :hammer_and_wrench: Installation & Configuration
 1. Download the **start.sh** file from the latest release.
-1. Put the **start.sh** file in the desired folder.. (Rename it if you want to)
+1. Put the **start.sh** file in the desired folder.
 2. Open the file and change **"DIRECTORY"** to the directory, where you want the server. (Default: _own folder_)
 3. Change **"SCREENNAME"** to the screen name you want.
 4. Set **"MAX_RAM"** to the maximum amount of RAM you will give the server and **"MIN_RAM"** to the minimum amount.
