@@ -1,6 +1,9 @@
 # Install / Startup Script for Minecraft Server
 #### Including Spigot, Paper, Vanilla, CraftBukkit, Fabric and Bungeecord
 
+### :heavy_exclamation_mark: German Version
+[Klicke hier](https://github.com/FetzerTony/startupScript-Minecraft-V2/blob/main/README-DE.md), um zur deutschen Version zu gelangen!
+
 ### :information_source: INFORMATION
 The script can be used to install and control servers.
 
