@@ -17,7 +17,7 @@ Das Skript kann zur Installation und Steuerung von Servern verwendet werden.
 
 ## :hammer_and_wrench: Installation & Konfiguration
 1. Lade die Datei **start-de.sh** aus dem neusten Release herunter.
-3. Lege die Datei **start-de.sh** in den gewünschten Ordner.. (Ändere den Namen um zu start.sh, wenn du möchtest)
+3. Lege die Datei **start-de.sh** in den gewünschten Ordner und ändere den Namen um zu **start.sh**.
 4. Öffne die Datei und ändere **"DIRECTORY"** in das Verzeichnis, in dem du den Server haben möchtest. (Standard: _eigener Ordner_)
 5. Ändere **"SCREENNAME"** in den gewünschten Screen Namen.
 6. Stellee **"MAX_RAM"** auf die maximale Menge an RAM ein, die du dem Server geben möchtest, und **"MIN_RAM"** auf die minimale Menge.
