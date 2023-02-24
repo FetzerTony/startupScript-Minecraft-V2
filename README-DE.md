@@ -10,7 +10,7 @@ Das Skript kann zur Installation und Steuerung von Servern verwendet werden.
 ### :no_entry: WICHTIG
 - nur für Linux!
 
-## :wrench: Required tools
+## :wrench: benötigte Tools
 - **screen** (_Kann über das Script installiert werden_)
 - **jq** (only for Paper) (_Kann über das Script installiert werden_)
 - [**Java**](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04-de) (passende Java-Version für Server-Version)
@@ -24,11 +24,11 @@ Das Skript kann zur Installation und Steuerung von Servern verwendet werden.
 7. Gebe `chmod 777 start.sh` in die Serverkonsole ein.
 8. Das war's, für weitere Einstellungen kannst du auch die anderen Variablen ändern.
 
-### :page_facing_up: other Variables
+### :page_facing_up: andere Variablen
 
 - **"START_CONSOLE=true"** = Öffnet die Konsole, wenn der Server gestartet wird
 - **"AUTO_UPDATE=true"** = Sucht automatisch nach Updates
 
-## :star: starting command
+## :star: Start Commands
 1. Wechsel in den Ordner, in dem sich die Startdatei befindet. ```cd /<directory>```
 2. Starte das Script mit ```./start.sh```
