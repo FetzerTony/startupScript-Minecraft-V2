@@ -1,3 +1,5 @@
-# startupScript-Minecraft-V2
+# Startup Script for Minecraft Server
+#### Including Spigot, Paper, Vanilla, CraftBukkit, Fabric and Bungeecord
 
-# IN PROGRESS
+## :wrench: Required tools
+- d
