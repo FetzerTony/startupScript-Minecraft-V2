@@ -2,7 +2,7 @@
 #### Einschließlich Spigot, Papier, Vanilla, CraftBukkit, Fabric und Bungeecord
 
 ### :heavy_exclamation_mark: English Version
-[Click here](https://github.com/FetzerTony/startupScript-Minecraft-V2/blob/main/) to go to the English version!
+[Click here](https://github.com/FetzerTony/startupScript-Minecraft-V2/) to go to the English version!
 
 ### :information_source: INFORMATION
 Das Skript kann zur Installation und Steuerung von Servern verwendet werden.
