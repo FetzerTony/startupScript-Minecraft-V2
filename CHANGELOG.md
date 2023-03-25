@@ -3,6 +3,7 @@
 ### Features:
 - [ ] deinstall option / change option
 - [ ] select screen name on install / change after
+- [ ] set MaxGB and MinGB
 - [ ] check script name ``"start.sh"``
 
 ### Fixes:
