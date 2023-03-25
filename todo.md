@@ -1,4 +1,5 @@
-## Changelog 1.1 (coming soon...)
+# Changelog
+## Version 1.1 (coming soon...)
 ### Features:
 - [ ] deinstall option / change option
 - [ ] select screen name on install / change after
