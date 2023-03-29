@@ -1,6 +1,7 @@
 # Changelog
 ## Version 1.1 (coming soon...)
 ### Features:
+- [ ] adding waterfall as install option
 - [ ] deinstall option / change option
 - [ ] select screen name on install / change after
 - [ ] set MaxGB and MinGB on install / change after
