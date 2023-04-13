@@ -7,6 +7,7 @@
 - [ ] set MaxGB and MinGB on install / change after
 - [ ] check script name ``"start.sh"``
 - [ ] variable for startup parameter
+- [ ] adding Java to auto install
 
 ### Fixes:
 - [ ] new screen check (installs everytime)
