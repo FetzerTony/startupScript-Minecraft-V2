@@ -8,6 +8,7 @@
 - [ ] check script name ``"start.sh"``
 - [ ] variable for startup parameter
 - [ ] adding Java to auto install
+- [ ] stop & restart message with countdown
 
 ### Fixes:
 - [ ] new screen check (installs everytime)
